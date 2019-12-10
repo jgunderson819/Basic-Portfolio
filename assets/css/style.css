@@ -58,3 +58,13 @@ padding-left: 40px;
 }
 
 
+#message {
+
+clear: both;
+overflow: auto;
+width: 500px;
+
+
+
+}
+
