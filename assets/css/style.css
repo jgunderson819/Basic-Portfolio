@@ -8,10 +8,21 @@ width:1200px;
 margin-left: 20px;
 
 }
+header {
+background-color: burlywood;
 
+
+
+
+
+}
 h1 {
 text-align: center;
+background-color: burlywood;
+width : 780px;
 
+margin-left: 100px;
+padding-left: 40px;
 }
 .logo {
 
@@ -28,22 +39,22 @@ padding:3px;
 
 clear: both;
 overflow: auto;
-
-
+background-color: burlywood;
+margin-left: 20px;
 }
 
 #main-bio {
 
   float: left;  
   font-size: 40px;
-
+  background-color: burlywood;
 
 
 
 }
 
 #bio-image {
-
+background-color: burlywood;
 float: left;
 height: 200px;
 width: 200px;
@@ -54,7 +65,7 @@ margin-bottom: 40px;
 #description{
 
 float:left;
-
+background-color: burlywood;
 width: 500px;
 margin-left: 40px;
 padding-left: 40px;
